@@ -1,3 +1,3 @@
 ## zf5_project
 
-(place your readme here)
+http://julian.io/foundation-5-and-yeoman/
